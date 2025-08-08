@@ -1,0 +1,9 @@
+venv/
+pyvenv.cfg
+.gitignore
+
+
+*.pyc
+__pycache__/
+*.log
+deployment.txt
